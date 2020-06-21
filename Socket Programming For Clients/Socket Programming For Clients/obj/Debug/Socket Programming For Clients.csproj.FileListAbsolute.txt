@@ -1,0 +1,10 @@
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\bin\Debug\Socket Programming For Clients.exe.config
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\bin\Debug\Socket Programming For Clients.exe
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\bin\Debug\Socket Programming For Clients.pdb
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket Programming For Clients.csprojAssemblyReference.cache
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket_Programming_For_Clients.Form1.resources
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket_Programming_For_Clients.Properties.Resources.resources
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket Programming For Clients.csproj.GenerateResource.cache
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket Programming For Clients.csproj.CoreCompileInputs.cache
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket Programming For Clients.exe
+E:\Programs\Socket Programming For Clients\Socket Programming For Clients\obj\Debug\Socket Programming For Clients.pdb

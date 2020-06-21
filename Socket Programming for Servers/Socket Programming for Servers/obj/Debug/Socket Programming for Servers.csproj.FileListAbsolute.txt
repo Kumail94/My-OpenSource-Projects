@@ -1,0 +1,7 @@
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\bin\Debug\Socket Programming for Servers.exe.config
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\bin\Debug\Socket Programming for Servers.exe
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\bin\Debug\Socket Programming for Servers.pdb
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\obj\Debug\Socket Programming for Servers.csprojAssemblyReference.cache
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\obj\Debug\Socket Programming for Servers.csproj.CoreCompileInputs.cache
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\obj\Debug\Socket Programming for Servers.exe
+E:\Programs\Socket Programming for Servers\Socket Programming for Servers\obj\Debug\Socket Programming for Servers.pdb

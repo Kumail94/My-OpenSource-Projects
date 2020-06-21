@@ -1,0 +1,54 @@
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csprojAssemblyReference.cache
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.Login.resources
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.GenerateResource.cache
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CoreCompileInputs.cache
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe.config
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.pdb
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.exe
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.pdb
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.dll
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.pdb
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CopyComplete
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Properties.Resources.resources
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.BranchInfo.resources
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.DashBoard.resources
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.ManageBranch.resources
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\bin\Debug\MaterialSkin.dll
+C:\Users\Nosh\source\repos\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.EmployeeInfo.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csprojAssemblyReference.cache
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Properties.Resources.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.BranchInfo.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.DashBoard.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.EmployeeInfo.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.Login.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.ManageBranch.resources
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.GenerateResource.cache
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CoreCompileInputs.cache
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.exe
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.pdb
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe.config
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.pdb
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.dll
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\MaterialSkin.dll
+E:\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.pdb
+E:\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CopyComplete
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csprojAssemblyReference.cache
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Properties.Resources.resources
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.BranchInfo.resources
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.DashBoard.resources
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.Login.resources
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.ManageBranch.resources
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.GenerateResource.cache
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CoreCompileInputs.cache
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.exe
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.pdb
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe.config
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.exe
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Office Mangement Systems.pdb
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.dll
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\MaterialSkin.dll
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\bin\Debug\Custom Framework.pdb
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office Mangement Systems.csproj.CopyComplete
+E:\data\Programs\Office Mangement Systems\Office Mangement Systems\obj\Debug\Office_Mangement_Systems.Screens.EmployeeInfo.resources

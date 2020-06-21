@@ -1,0 +1,19 @@
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.exe.config
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.exe
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.pdb
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.csprojAssemblyReference.cache
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.csproj.CoreCompileInputs.cache
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.exe
+E:\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.pdb
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.csproj.CoreCompileInputs.cache
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.exe
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.pdb
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.exe.config
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.exe
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\Data Structures and algorithms.pdb
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\EntityFramework.dll
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\EntityFramework.SqlServer.dll
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\EntityFramework.xml
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\bin\Debug\EntityFramework.SqlServer.xml
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.csproj.CopyComplete
+E:\data\Programs\Data Structures and algorithms\Data Structures and algorithms\obj\Debug\Data Structures and algorithms.csprojAssemblyReference.cache

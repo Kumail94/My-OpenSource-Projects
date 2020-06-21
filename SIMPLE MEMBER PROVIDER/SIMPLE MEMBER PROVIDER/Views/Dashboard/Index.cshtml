@@ -1,0 +1,165 @@
+﻿@using System.Web.Security;
+@using WebMatrix.WebData;
+@{
+    ViewBag.Title = "Index";
+}
+<h3>Dash Board</h3>
+<div class="row">
+    <div class="col-md-12">
+        <div class="alert alert-success">
+            <p>
+                Wellcome to -<b>@WebSecurity.CurrentUserName</b>&nbsp;
+                <a href="@Url.Action("Logout" , "Account")"> Sign Out</a> <span> | </span>
+                @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+                {
+                    <a href="@Url.Action("Register" , "Account")">Register New Account</a><span> | </span>
+                }
+                <a href="@Url.Action("ChangePassword" , "Account")">Change Password</a> <span> | </span>
+                <a href="@Url.Action("UserProfile" , "Account")">User Profile</a><span> | </span>
+                <a href="@Url.Action("GetUserList" , "Account")">Users Lists</a>
+            </p>
+        </div>
+    </div>
+    @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+    {
+        <div class="col-md-6">
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    <h3 class="panel-title">User Management</h3>
+                </div>
+                <div class="panel-body text-center">
+                    <div class="col-md-3">
+                        <a href="@Url.Action("GetUserList", "Account")">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>User List</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="@Url.Action("Register", "Account")">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Register User</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>Ban Users</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Activate User</h5>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+    <div class="col-md-6">
+        <div class="panel panel-success">
+            <div class="panel-heading">
+                <h3 class="panel-title">Student Management</h3>
+            </div>
+            <div class="panel-body text-center">
+                <div class="col-md-3">
+                    <a href="@Url.Action("GetUserList" , "Account")">
+                        <i class="fa fa-users fa-3x"></i>
+                        <h5>Student List</h5>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="@Url.Action("Register" , "Account")">
+                        <i class="fa fa-user fa-3x"></i>
+                        <h5>Register New Student</h5>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#">
+                        <i class="fa fa-users fa-3x"></i>
+                        <h5>Ban Students</h5>
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <a href="#">
+                        <i class="fa fa-user fa-3x"></i>
+                        <h5>Activate Student</h5>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    @if (User.IsInRole("Administrator") || User.IsInRole("Manager"))
+    {
+        <div class="col-md-6">
+            <div class="panel panel-warning">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Employee Management</h3>
+                </div>
+                <div class="panel-body text-center">
+                    <div class="col-md-3">
+                        <a href="@Url.Action("GetUserList", "Account")">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>Employee List</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="@Url.Action("Register", "Account")">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Register New Employee</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>Ban Employees</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Activate Employee</h5>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    }
+        <div class="col-md-6">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Help & Support</h3>
+                </div>
+                <div class="panel-body text-center">
+                    <div class="col-md-3">
+                        <a href="@Url.Action("GetUserList" , "Account")">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>User List</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="@Url.Action("Register" , "Account")">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Register New User</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-users fa-3x"></i>
+                            <h5>Ban Users</h5>
+                        </a>
+                    </div>
+                    <div class="col-md-3">
+                        <a href="#">
+                            <i class="fa fa-user fa-3x"></i>
+                            <h5>Activate User</h5>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>

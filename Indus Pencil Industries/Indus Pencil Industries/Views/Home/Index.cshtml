@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    <h2 class="text-center" style="color:#dcbf1e">INDUS PENCIL INDUSTRIES (PVT) ltd.</h2>
+    <ul class="nav nav-tabs">
+        <li class="active"><a data-toggle="tab" href="#firstTab">View All Records</a></li>
+        <li><a data-toggle="tab" href="#secondTab">Add or Edit</a></li>
+    </ul>
+    <div class="tab-content">
+        <div id="firstTab" class="tab-pane fade in active">@Html.Action("ViewAll")</div>
+        <div id="secondTab" class="tab-pane fade in">@Html.Action("AddOrEdit")</div>
+    </div>
+</div>
+<hr />
+    <footer>
+        <p>&copy; @DateTime.Now.Year - My ASP.NET MVC-5 Application</p>
+    </footer>
+@section Scripts
+    {
+    @Scripts.Render("~/bundles/jqueryval");
+}
+
+
+

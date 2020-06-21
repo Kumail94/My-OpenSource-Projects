@@ -1,0 +1,55 @@
+﻿@model IEnumerable<SIMPLE_MEMBER_PROVIDER.Models.UserLists>
+
+@{
+    ViewBag.Title = "GetUserList";
+}
+
+<h2>User List</h2>
+
+<table class="table table-striped table-condensed table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FullName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UserName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Address)
+        </td>
+        <td>
+            @Html.ActionLink("Edit","UserProfile", "Account",null, new { @class = "btn btn-warning" /* id=item.PrimaryKey */ }) 
+            @Html.ActionLink("Details", "Details",null , new { @class = "btn btn-primary" /* id=item.PrimaryKey */ }) 
+            @Html.ActionLink("Delete", "Delete",null , new { @class = "btn btn-danger" /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

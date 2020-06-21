@@ -1,0 +1,5 @@
+﻿@using SIMPLE_MEMBER_PROVIDER.ViewModel.Account;
+@{
+    ViewBag.Title = "AddComboBox";
+}
+@Html.DropDownList("" , AccountVM.GetAllItems((int)ViewBag.RoleId) , string.Empty , new { @class = "form-control"})

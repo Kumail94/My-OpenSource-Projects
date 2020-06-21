@@ -1,0 +1,99 @@
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\ApplicationInsights.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Indus Pencil Industries.dll.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Indus Pencil Industries.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Indus Pencil Industries.pdb
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csc.exe
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csc.exe.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csc.rsp
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csi.exe
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csi.exe.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\csi.rsp
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.AppContext.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Collections.Immutable.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Console.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.IO.Compression.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.IO.FileSystem.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.IO.Pipes.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.AccessControl.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Claims.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.ValueTuple.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Xml.XPath.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\vbc.exe
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\vbc.exe.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\vbc.rsp
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\VBCSCompiler.exe
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\roslyn\VBCSCompiler.exe.config
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Antlr3.Runtime.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\EntityFramework.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\EntityFramework.SqlServer.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.DependencyCollector.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.Web.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.WindowsServer.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.ApplicationInsights.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.Web.Infrastructure.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Newtonsoft.Json.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Helpers.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Mvc.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Optimization.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Razor.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.Deployment.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.Razor.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\WebGrease.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\EntityFramework.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\EntityFramework.SqlServer.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Helpers.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Mvc.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Optimization.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.Razor.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.Deployment.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Web.WebPages.Razor.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Newtonsoft.Json.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Antlr3.Runtime.pdb
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.DependencyCollector.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.WindowsServer.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.AI.Web.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.csprojAssemblyReference.cache
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.csproj.CoreCompileInputs.cache
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.csproj.CopyComplete
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.dll
+E:\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.pdb
+E:\data\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.csprojAssemblyReference.cache
+E:\data\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.csproj.CoreCompileInputs.cache
+E:\data\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.dll
+E:\data\Programs\Indus Pencil Industries\Indus Pencil Industries\obj\Debug\Indus Pencil Industries.pdb

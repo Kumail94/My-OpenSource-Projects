@@ -1,0 +1,70 @@
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.dll.config
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\ASP.NET MVC.pdb
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.exe
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.exe.config
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csc.rsp
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.exe
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.exe.config
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\csi.rsp
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.AppContext.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Collections.Immutable.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Console.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Compression.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.FileSystem.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.IO.Pipes.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.AccessControl.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Claims.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.ValueTuple.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XPath.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.exe
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.exe.config
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\vbc.rsp
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\VBCSCompiler.exe
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\roslyn\VBCSCompiler.exe.config
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.Web.Infrastructure.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Helpers.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Mvc.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Razor.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.Deployment.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.Razor.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\WebMatrix.Data.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\WebMatrix.Data.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Razor.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.Deployment.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Webpages.Razor.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Helpers.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\System.Web.Mvc.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programs\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.csproj.CoreCompileInputs.cache
+E:\Programs\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.csproj.CopyComplete
+E:\Programs\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.dll
+E:\Programs\ASP.NET MVC\ASP.NET MVC\obj\Debug\ASP.NET MVC.pdb

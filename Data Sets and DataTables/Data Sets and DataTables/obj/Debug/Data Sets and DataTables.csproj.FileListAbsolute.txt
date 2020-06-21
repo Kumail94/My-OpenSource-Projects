@@ -1,0 +1,17 @@
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\Data Sets and DataTables.exe
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\Data Sets and DataTables.pdb
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\WEB BROWSER.resx
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\WEB BROWSER.cs
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\WEB BROWSER.Designer.cs
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\bin\Debug\Data Sets and DataTables.exe.config
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.DataRows_and_Views.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.DataTables.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.Employee_Information.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.Properties.Resources.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.Voice_Testing.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data_Sets_and_DataTables.WEB_BROWSER.resources
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data Sets and DataTables.csproj.GenerateResource.cache
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data Sets and DataTables.csproj.CoreCompileInputs.cache
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data Sets and DataTables.exe
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data Sets and DataTables.pdb
+E:\Programs\Data Sets and DataTables\Data Sets and DataTables\obj\Debug\Data Sets and DataTables.csprojAssemblyReference.cache

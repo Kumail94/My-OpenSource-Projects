@@ -1,0 +1,10 @@
+C:\Users\Nosh\source\repos\Office Mangement Systems\Custom Framework\bin\Debug\Custom Framework.dll
+C:\Users\Nosh\source\repos\Office Mangement Systems\Custom Framework\bin\Debug\Custom Framework.pdb
+C:\Users\Nosh\source\repos\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.csproj.CoreCompileInputs.cache
+C:\Users\Nosh\source\repos\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.dll
+C:\Users\Nosh\source\repos\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.pdb
+E:\data\Programs\Office Mangement Systems\Custom Framework\bin\Debug\Custom Framework.dll
+E:\data\Programs\Office Mangement Systems\Custom Framework\bin\Debug\Custom Framework.pdb
+E:\data\Programs\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.csproj.CoreCompileInputs.cache
+E:\data\Programs\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.dll
+E:\data\Programs\Office Mangement Systems\Custom Framework\obj\Debug\Custom Framework.pdb

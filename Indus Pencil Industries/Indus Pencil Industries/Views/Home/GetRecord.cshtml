@@ -1,0 +1,18 @@
+﻿@model IEnumerable<Indus_Pencil_Industries.Models.Deer>
+@{
+    ViewBag.Title = "GetRecord";
+}
+
+<div class="container">
+    <h2 class="text-center" style="border-bottom:1px solid #808080">Employee Details:</h2>
+    @foreach (var item in Model)
+    {
+        <label>Employee Name: <span>@item.Name</span></label>
+        <label>Department Name: <span>@item.Department</span></label>
+        <label>Designation: <span>@item.Designation</span></label>
+        <label>Image Url: <span>@item.Image_Path</span></label>
+
+
+    }
+</div>
+
